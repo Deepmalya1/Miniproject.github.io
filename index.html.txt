@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Nested lists</title>
+</head>
+<body bgcolor="snow" leftmargin="100" topmargin="25">
+<b><font size="6" color="Black">Menu for today !</font></b>
+<font size="6" color="SlateBlue">
+<ol type="I">
+    <li>Breakfast
+        <ul type="circle">
+            <li>Sandwich</li>
+            <li>Bread and butter</li>
+            <li>Tea</li>
+        </ul>
+    </li>
+    <li>Lunch
+        <ul type="square">
+            <li>Chapatis</li>
+            <li>Pulav</li>
+            <li>Salad</li>
+            <li>Slice cake</li>
+        </ul>
+    </li>
+    <li>Dinner
+        <ul type="disc">
+            <li>Soup</li>
+            <li>Pasta</li>
+            <li>Garlic bread</li>
+            <li>Fruits</li>
+        </ul>
+    </li>
+</ol>
+</font>
+</body>
+</html>
